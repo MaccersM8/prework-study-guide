@@ -12,19 +12,13 @@ N/A
 
 The webpage has four sections:
 HTML
-![alt text](assets/images/html-screenshot.png)
 CSS
-![alt text](assets/images/css-screenshot.png)
 Git
-![alt text](assets/images/git-screenshot.png)
 JavaScript
-![alt text](assets/images/javascript-screenshot.png)
 These are the main four topics where bootcamp students will need to refer back to previous notes that have been made.
 Within each section, there will be some notes for each of the topics that I have learnt throughout going through the prework phase of the bootcamp. In some of the sections I have used extra headings to organise the notes better as well as including diagrams where needed.
-![alt text](assets/images/diagram-screenshot.png)
 
 If you was to access the console, there will some JavaScript coding which will indicate to a user which topic to study first.
-![alt text](assets/images/console-screenshot.png)
 
 ## Credits
 
